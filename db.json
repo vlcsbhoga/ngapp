@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "VENKATESH",
+      "password": "vbsadmin",
+      "active": "true"
+    },
+    {
+      "id": 2,
+      "name": "AKR",
+      "password": "AKR@12345",
+      "active": "true"
+    }
+  ],
+  "UMSMast": [
+
+  ],
+  "MBTPMast": [
+
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
